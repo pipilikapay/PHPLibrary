@@ -1,5 +1,7 @@
 # PHP CURL Example Code
 
+![PipilikaPay Logo]([https://uddoktapay.com/assets/images/logo.png](https://pipilikapay.com/public/logo.png))
+
 This is a simple PHP CURL checkout example of PipilikaPay.
 
 
